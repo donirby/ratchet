@@ -1,8 +1,8 @@
-Ember Basics
+chris griffith multidevice prototyping with ratchet 
 ============
 
-A repository for developing ember javascript.
+A repository for developing ratchet javascript.
 
 ### Another Header Placeholder
 
-[Emberjs Website] (http://emberjs.com)
+[Emberjs Website] (http://donirby.net/ratchet)
